@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there I am Asim Ali 👋
+     Student at Al Shia collge of arts and science college.
+     Pursuing BSc AI with ML Degree
+     I am passionate about Learning new things and building new things.
 <!--
 **asimalicm/asimalicm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
